@@ -96,5 +96,6 @@ Designed a professional, stakeholder-focused dashboard:
 
 ## 📁 Project Files
 
-- **Live Power BI Report:** [https://app.powerbi.com/view?r=eyJrIjoiYzY4MmRiN2ItZGU3YS00YTBkLWJjY2UtYWMxMmQyY2UyNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+## Live Dashboard
+[View Live Dashboard]([https://app.powerbi.com/view?r=example](https://app.powerbi.com/view?r=eyJrIjoiYzY4MmRiN2ItZGU3YS00YTBkLWJjY2UtYWMxMmQyY2UyNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 - Dashboard screenshots    
