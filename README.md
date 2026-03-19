@@ -108,3 +108,4 @@ Designed a professional, stakeholder-focused dashboard:
 -Balance volume and margin: continue promoting high-profit products while carefully managing high-volume, low-margin ones.
 -Ensure clarity between gross and net revenue—confirm correct labeling to avoid confusion.
 -Use product and country insights to refine both marketing and pricing strategies to maximize profitability.
+---
