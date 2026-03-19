@@ -103,6 +103,7 @@ Designed a professional, stakeholder-focused dashboard:
 
 - Investigate the October dip in profit margin to identify causes.
 - UAE has high sales but the same profit margin as other regions—analyze costs or pricing to understand why.
+- Investigate the spike in median sales in September to understand what drove that spike and how it can be replicated or stabilized.
 - Adjust inventory by region, promoting top products where they sell best, and reducing slow-moving stock elsewhere.
 - Learn from the UAE’s success with the modular sofa set and apply strategies in other markets.
 - Identify strong and weak products by region. Eliminate or adjust pricing for low-margin products, such as floral wallpaper, which sells but yields low profit.
