@@ -99,13 +99,14 @@ Designed a professional, stakeholder-focused dashboard:
 
 ---
 
-## 🚀 Business Recommendations
--Investigate the October dip in profit margin to identify causes.
--UAE has high sales but the same profit margin as other regions—analyze costs or pricing to understand why.
--Adjust inventory by region, promoting top products where they sell best, and reducing slow-moving stock elsewhere.
--Learn from the UAE’s success with the modular sofa set and apply strategies in other markets.
--Identify strong and weak products by region. Eliminate or adjust pricing for low-margin products, such as floral wallpaper, which sells but yields low profit.
--Balance volume and margin: continue promoting high-profit products while carefully managing high-volume, low-margin ones.
--Ensure clarity between gross and net revenue—confirm correct labeling to avoid confusion.
--Use product and country insights to refine both marketing and pricing strategies to maximize profitability.
+## 📊 Business Recommendations
+
+- Investigate the October dip in profit margin to identify causes.
+- UAE has high sales but the same profit margin as other regions—analyze costs or pricing to understand why.
+- Adjust inventory by region, promoting top products where they sell best, and reducing slow-moving stock elsewhere.
+- Learn from the UAE’s success with the modular sofa set and apply strategies in other markets.
+- Identify strong and weak products by region. Eliminate or adjust pricing for low-margin products, such as floral wallpaper, which sells but yields low profit.
+- Balance volume and margin: continue promoting high-profit products while carefully managing high-volume, low-margin ones.
+- Ensure clarity between gross and net revenue—confirm correct labeling to avoid confusion.
+- Use product and country insights to refine both marketing and pricing strategies to maximize profitability.
 ---
