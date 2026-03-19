@@ -10,6 +10,7 @@ This project is a complete end-to-end Business Intelligence solution developed a
 The objective was to analyze **Sales and Profit performance for Tailwind Traders** and build an interactive, accessible, and business-ready Power BI dashboard to support strategic decision-making. This analysis is based on data from September and October 2023, and further insights will grow as more data is explored.
 
 The project covers the full data lifecycle — from data extraction and transformation to modeling, performance analysis, DAX calculations, dashboard design, and alert configuration.
+
 ---
 ## 📁 Project Files
 
@@ -82,7 +83,7 @@ Designed a professional, stakeholder-focused dashboard:
 - Mobile-optimized layout  
 - Company brand color alignment
 - Trend and pattern identification
-- 
+  
 ---
 
 ## 🚀 Skills Demonstrated
@@ -110,4 +111,5 @@ Designed a professional, stakeholder-focused dashboard:
 - Balance volume and margin: continue promoting high-profit products while carefully managing high-volume, low-margin ones.
 - Ensure clarity between gross and net revenue—confirm correct labeling to avoid confusion.
 - Use product and country insights to refine both marketing and pricing strategies to maximize profitability.
+  
 ---
